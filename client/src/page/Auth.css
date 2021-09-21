@@ -1,0 +1,31 @@
+.wraper__auth {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.card__auth {
+    width: 600px;
+    padding: 5rem;
+}
+.form__auth {
+    display: flex;
+    flex-direction: column
+}
+
+.form__controll__auth { 
+    margin-top: 1rem;
+}
+
+.button__auth {
+    margin-top: 1rem;   
+}
+
+.navbar__link__auth{
+    display: flex;
+    margin-top: 1rem; 
+}
+
+.link__auth {
+    margin-left: 0.3rem;
+    text-decoration: none;
+}
